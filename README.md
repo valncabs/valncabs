@@ -3,6 +3,12 @@
 ### Telematics Engineering Student | Software Developer | Data Analysis | Cybersecurity | Riwi coder
 ###### I don’t just write code — I build logic, structure ideas, and turn complexity into solutions.
 
+ <img align="right" alt="GIF" height="190px" width="200px" src="https://media.giphy.com/media/Xy54oX570IxWnAI5nR/giphy.gif" href="https://elijs.dev/"/>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A892D9&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+
 #### Languages & Frameworks
 
 <p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=py,javascript,html,css,nextjs,java,express,bootstrap,svelte&perline=10" /> </a> </p>
