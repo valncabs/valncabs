@@ -54,3 +54,12 @@ I am currently developing PyBank, a banking system simulation project built with
 
 I enjoy watching series and movies, solving math problems just for fun — yes, for fun — and painting.
 For me, creativity and logic are not opposites; they complement each other.
+
+----------
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" 
+    width="100%" 
+  />
+ 
