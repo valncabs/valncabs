@@ -41,13 +41,6 @@ const ValentinaMindset = {
 
 ----------
 
-### 🚀 Current Project
-#### 🏦 PyBank – Riwi
-
-I am currently developing PyBank, a banking system simulation project built with Python.
-
-----------
-
 ### 🎨 Personal Interests
 
 ###### Not everything is about code (well… almost 😅).
